@@ -1,0 +1,50 @@
+# Geospatial data formats
+*.tif
+*.tiff
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.txt
+*.xyz
+*.csv
+
+# QGIS/GIS temporary files
+*.qgs~
+*.gpkg-shm
+*.gpkg-wal
+
+# Raster data formats
+*.img
+*.dem
+*.asc
+
+# Large binary files
+*.bin
+*.dat
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env/
+.venv/
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
+
+# Temporary files
+*~
+.DS_Store
